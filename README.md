@@ -1,8 +1,9 @@
 # Calculadora JavaScript
 
 - HTML
-- CSS
 - JS
+
+Para ativar e desativar o audio bastar clicar duas vezes no "AC".
 
 ## Ícones
 - :package: Nova funcionalidade
